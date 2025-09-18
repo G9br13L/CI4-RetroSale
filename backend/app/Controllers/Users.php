@@ -1,4 +1,3 @@
-// Template Controller
 <?php
 
 namespace App\Controllers;
