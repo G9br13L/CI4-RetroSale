@@ -4,17 +4,18 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/G9br13L/">
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- * Title Section -->
-  <h3 align="center">AD - CI4 Template</h3>
+  <h3 align="center">RetroSale</h3>
 </div>
 
 <!-- * Description Section -->
 <div align="center">
-This repository is a beginner-friendly CodeIgniter 4 template.  
-It helps teams quickly bootstrap backend + frontend projects, with simple sample modules that show how to extend the system.
+RetroSale offers old school video games ranging from PS1, PS2, Wii, DS, and 3DS offering you to relive
+old games and enjoy a wide history of games!
+RetroSale also offers old school gadgets from Digicams, Old Consoles, and other Retro Gadgets for collectors or customers to use, display, and enjoy!
 </div>
 
 <br/>
