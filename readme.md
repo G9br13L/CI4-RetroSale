@@ -15,7 +15,7 @@
 <div align="center">
 RetroSale offers old school video games ranging from PS1, PS2, Wii, DS, and 3DS offering you to relive
 old games and enjoy a wide history of games!
-RetroSale also offers old school gadgets from Digicams, Old Consoles, and other Retro Gadgets for collectors or customers to use, display, and enjoy!
+RetroSale also offers old school gadgets from Digicams, Old Consoles, and other Retro Gadgets for collectors or customers to use, display, and enjoy! yay!
 </div>
 
 <br/>
